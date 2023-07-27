@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kandat1/static/css/main.93839c22.css",
+    "main.js": "/Kandat1/static/js/main.8b01ace7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Kandat1/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Kandat1/index.html",
+    "main.93839c22.css.map": "/Kandat1/static/css/main.93839c22.css.map",
+    "main.8b01ace7.js.map": "/Kandat1/static/js/main.8b01ace7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Kandat1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93839c22.css",
+    "static/js/main.8b01ace7.js"
+  ]
+}
